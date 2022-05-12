@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/Rick-and-Morty-Redux-Toolkit/static/css/main.ff3a1d33.css",
-    "main.js": "/Rick-and-Morty-Redux-Toolkit/static/js/main.a71f3e3d.js",
-    "static/js/787.c1112931.chunk.js": "/Rick-and-Morty-Redux-Toolkit/static/js/787.c1112931.chunk.js",
+    "main.css": "/Rick-and-Morty-Redux-Toolkit/static/css/main.7b5d8212.css",
+    "main.js": "/Rick-and-Morty-Redux-Toolkit/static/js/main.d8c94b87.js",
+    "static/js/787.5e4fc7e5.chunk.js": "/Rick-and-Morty-Redux-Toolkit/static/js/787.5e4fc7e5.chunk.js",
     "static/media/back.jpg": "/Rick-and-Morty-Redux-Toolkit/static/media/back.8c8bd1f22c698441632e.jpg",
+    "static/media/products.jpg": "/Rick-and-Morty-Redux-Toolkit/static/media/products.1240c79d7f13c09ee82e.jpg",
+    "static/media/characters.jpg": "/Rick-and-Morty-Redux-Toolkit/static/media/characters.3321a2a956a619db97c1.jpg",
+    "static/media/episodes.jpg": "/Rick-and-Morty-Redux-Toolkit/static/media/episodes.695951d7b05be5f294cb.jpg",
     "static/media/logo.png": "/Rick-and-Morty-Redux-Toolkit/static/media/logo.fc14c5b61aa31b249cf6.png",
+    "static/media/locations.jpg": "/Rick-and-Morty-Redux-Toolkit/static/media/locations.19f27fe8302d23f7fde8.jpg",
     "index.html": "/Rick-and-Morty-Redux-Toolkit/index.html",
-    "main.ff3a1d33.css.map": "/Rick-and-Morty-Redux-Toolkit/static/css/main.ff3a1d33.css.map",
-    "main.a71f3e3d.js.map": "/Rick-and-Morty-Redux-Toolkit/static/js/main.a71f3e3d.js.map",
-    "787.c1112931.chunk.js.map": "/Rick-and-Morty-Redux-Toolkit/static/js/787.c1112931.chunk.js.map"
+    "main.7b5d8212.css.map": "/Rick-and-Morty-Redux-Toolkit/static/css/main.7b5d8212.css.map",
+    "main.d8c94b87.js.map": "/Rick-and-Morty-Redux-Toolkit/static/js/main.d8c94b87.js.map",
+    "787.5e4fc7e5.chunk.js.map": "/Rick-and-Morty-Redux-Toolkit/static/js/787.5e4fc7e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff3a1d33.css",
-    "static/js/main.a71f3e3d.js"
+    "static/css/main.7b5d8212.css",
+    "static/js/main.d8c94b87.js"
   ]
 }
