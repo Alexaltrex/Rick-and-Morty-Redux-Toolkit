@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Rick-and-Morty-Redux-Toolkit/static/css/main.7b5d8212.css",
-    "main.js": "/Rick-and-Morty-Redux-Toolkit/static/js/main.d8c94b87.js",
+    "main.css": "/Rick-and-Morty-Redux-Toolkit/static/css/main.f1796d5a.css",
+    "main.js": "/Rick-and-Morty-Redux-Toolkit/static/js/main.3a1e431e.js",
     "static/js/787.5e4fc7e5.chunk.js": "/Rick-and-Morty-Redux-Toolkit/static/js/787.5e4fc7e5.chunk.js",
     "static/media/back.jpg": "/Rick-and-Morty-Redux-Toolkit/static/media/back.8c8bd1f22c698441632e.jpg",
     "static/media/products.jpg": "/Rick-and-Morty-Redux-Toolkit/static/media/products.1240c79d7f13c09ee82e.jpg",
@@ -10,12 +10,12 @@
     "static/media/logo.png": "/Rick-and-Morty-Redux-Toolkit/static/media/logo.fc14c5b61aa31b249cf6.png",
     "static/media/locations.jpg": "/Rick-and-Morty-Redux-Toolkit/static/media/locations.19f27fe8302d23f7fde8.jpg",
     "index.html": "/Rick-and-Morty-Redux-Toolkit/index.html",
-    "main.7b5d8212.css.map": "/Rick-and-Morty-Redux-Toolkit/static/css/main.7b5d8212.css.map",
-    "main.d8c94b87.js.map": "/Rick-and-Morty-Redux-Toolkit/static/js/main.d8c94b87.js.map",
+    "main.f1796d5a.css.map": "/Rick-and-Morty-Redux-Toolkit/static/css/main.f1796d5a.css.map",
+    "main.3a1e431e.js.map": "/Rick-and-Morty-Redux-Toolkit/static/js/main.3a1e431e.js.map",
     "787.5e4fc7e5.chunk.js.map": "/Rick-and-Morty-Redux-Toolkit/static/js/787.5e4fc7e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b5d8212.css",
-    "static/js/main.d8c94b87.js"
+    "static/css/main.f1796d5a.css",
+    "static/js/main.3a1e431e.js"
   ]
 }
