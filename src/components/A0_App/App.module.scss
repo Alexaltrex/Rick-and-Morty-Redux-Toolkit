@@ -1,0 +1,36 @@
+@import "../../assets/scss/app.scss";
+
+.app {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+  box-sizing: border-box;
+
+  @include desktop() {
+    padding-top: 65px;
+  }
+
+  &_fixed {
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  main {
+    flex-grow: 1;
+    background-image: url(../../assets/jpeg/back.jpg);
+    background-repeat: repeat;
+    display: flex;
+    flex-direction: column;
+
+    @include inner();
+    padding: 16px;
+
+      @include desktop() {
+        padding: 24px 0;
+      }
+
+
+  }
+}

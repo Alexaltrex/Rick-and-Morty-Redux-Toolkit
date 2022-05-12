@@ -1,0 +1,77 @@
+@import "../../assets/scss/app.scss";
+
+.homePage {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+
+  @include desktop() {
+    flex-direction: row;
+
+  }
+
+  .link {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 10px solid $color_secondary_dark;
+    transition: 0.3s;
+
+    @include desktop() {
+      width: 200px;
+      height: 200px;
+      border-width: 10px;
+    }
+
+    &:hover {
+      border-color: $color_secondary;
+
+      img {
+        transform: scale(1.1);
+      }
+
+      p {
+        background: $color_secondary;
+        color: $color_primary;
+      }
+
+
+    }
+
+    &:not(:first-child) {
+      margin-top: 8px;
+
+      @include desktop() {
+        margin-top: 0;
+        margin-left: 8px;
+      }
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      transition: 0.3s;
+    }
+
+    p {
+      @include absoluteCenter();
+      padding: 8px 12px;
+      background: $color_secondary_dark;
+      color: $color_primary_hover;
+      font-size: 12px;
+      border-radius: 16px;
+      transition: 0.3s;
+
+      @include desktop() {
+        font-size: 16px;
+      }
+    }
+  }
+
+}
