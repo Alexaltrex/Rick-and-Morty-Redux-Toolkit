@@ -1,6 +1,7 @@
 # Rick-and-Morty-Redux-Toolkit
 * Link: https://alexaltrex.github.io/MobX-Typescript-CRUD/
-* API (for CRUD): https://alexaltrex-common-api.herokuapp.com/rtkquery/product/
+* Api (for CRUD): https://alexaltrex-common-api.herokuapp.com/rtkquery/product/
+* Api (source code): https://github.com/Alexaltrex/alexaltrex-common-api/
 
 <div style="display:flex;">
   <img src="https://user-images.githubusercontent.com/56224288/168125026-268bc3c6-fffc-47aa-a856-f9964a6e75ec.jpg" height="150">
